@@ -1,6 +1,8 @@
 # Creating Resource Groups
 
-This lab is a on how to create resource groups in Microsoft Azure.
+<h3>Purpose</h3>
+
+- How to create Resource Groups in Microsoft Azure.
 
 <h2>Deployment and Configuration Steps:</h2>
 
